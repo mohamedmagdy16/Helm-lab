@@ -2,10 +2,9 @@
 
 #### Start by containerize the application https://github.com/tradebyte/DevOps-Challenge
 
-```
 ![alt](./screenshots/1.png)
 
-```
+
 
 ### Create helm chart
 
